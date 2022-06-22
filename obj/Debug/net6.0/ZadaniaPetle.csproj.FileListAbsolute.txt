@@ -1,0 +1,15 @@
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\bin\Debug\net6.0\ZadaniaPetle.exe
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\bin\Debug\net6.0\ZadaniaPetle.deps.json
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\bin\Debug\net6.0\ZadaniaPetle.runtimeconfig.json
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\bin\Debug\net6.0\ZadaniaPetle.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\bin\Debug\net6.0\ZadaniaPetle.pdb
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ZadaniaPetle.csproj.AssemblyReference.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ZadaniaPetle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ZadaniaPetle.AssemblyInfoInputs.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ZadaniaPetle.AssemblyInfo.cs
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ZadaniaPetle.csproj.CoreCompileInputs.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ZadaniaPetle.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\refint\ZadaniaPetle.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ZadaniaPetle.pdb
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ZadaniaPetle.genruntimeconfig.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaPetle\ZadaniaPetle\obj\Debug\net6.0\ref\ZadaniaPetle.dll
